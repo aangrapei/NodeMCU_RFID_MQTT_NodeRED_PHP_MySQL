@@ -25,8 +25,8 @@
 MFRC522 mfrc522(SS_PIN, RST_PIN); 
 
 
-const char *ssid = "WLAN2"; // Nama SSID Wifi
-const char *pass = "sonaulyamahasin"; //Password Wifi
+const char *ssid = "XXX"; // Nama SSID Wifi
+const char *pass = "XXX"; //Password Wifi
 
 const char *mqtt_server = "broker.hivemq.com"; // Server MQTT
 const int mqtt_port = 1883; //Port MQTT
